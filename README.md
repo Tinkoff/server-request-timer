@@ -1,9 +1,9 @@
 ## Request timer
 
-[![Build status](https://img.shields.io/travis/TinkoffCreditSystems/server-request-timer/master.svg?style=flat-square)](https://travis-ci.org/TinkoffCreditSystems/cachalot)
-[![Coveralls github](https://img.shields.io/coveralls/github/TinkoffCreditSystems/server-request-timer.svg?style=flat-square)](https://coveralls.io/github/TinkoffCreditSystems/cachalot)
+[![Build status](https://img.shields.io/travis/TinkoffCreditSystems/server-request-timer/master.svg?style=flat-square)](https://travis-ci.org/TinkoffCreditSystems/server-request-timer)
+[![Coveralls github](https://img.shields.io/coveralls/github/TinkoffCreditSystems/server-request-timer.svg?style=flat-square)](https://coveralls.io/github/TinkoffCreditSystems/server-request-timer)
 [![Written in typescript](https://img.shields.io/badge/written_in-typescript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)
-[![npm](https://img.shields.io/npm/v/server-request-timer.svg?style=flat-square)](https://www.npmjs.com/package/cachalot)
+[![npm](https://img.shields.io/npm/v/server-request-timer.svg?style=flat-square)](https://www.npmjs.com/package/server-request-timer)
 
 A library for analyzing request execution.
 The result of its work is a list of request execution phases with time spent on each phase.
