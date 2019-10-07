@@ -1,6 +1,6 @@
 {
   "name": "server-request-timer",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A library for analyzing request execution",
   "keywords": [
     "libs",
