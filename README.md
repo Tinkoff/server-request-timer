@@ -20,7 +20,7 @@ The result of its work is a list of request execution phases with time spent on 
 
  - `download` - time from receiving the first bytes to the completion of the request
 
- - `total` - from time to time from the creation of the request to the completion of the request or error (at any stage)
+ - `total` - from creation time of the request to the completion of the request or error (at any stage)
 
 **Important:**
 You cannot call the subscribe method twice on same `request`
