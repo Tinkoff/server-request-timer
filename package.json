@@ -43,7 +43,7 @@
     "@semantic-release/changelog": "^3.0.4",
     "@semantic-release/git": "^7.0.16",
     "jest": "^24.9.0",
-    "lint-staged": "^8.1.7",
+    "lint-staged": "^13.1.0",
     "prettier": "^1.18.2",
     "ts-jest": "^24.1.0",
     "tslint": "^5.20.0",
